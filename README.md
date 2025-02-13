@@ -4,11 +4,9 @@
 - [Introduction](#introduction)
 - [Design Overview](#design-overview)
 - [Pipeline Stages](#pipeline-stages)
-- [Implementation Details](#implementation-details)
 - [Testbench and Verification](#testbench-and-verification)
 - [Performance and Results](#performance-and-results)
 - [Future Work](#future-work)
-- [Directory Structure](#directory-structure)
 - [How to Run](#how-to-run)
 - [Conclusion](#conclusion)
 
