@@ -24,6 +24,8 @@ The objective is to:
 ---
 
 ## 🏗️ Design Overview
+![Screenshot 2025-02-13 080619](https://github.com/user-attachments/assets/01e06828-ed8c-4d09-8492-a6777d653471)
+
 The GCN module consists of the following main operations:
 1. **Feature Aggregation** – Matrix-vector multiplication between an adjacency matrix and feature matrix.
 2. **Feature Transformation** – Multiplication of aggregated features with a weight matrix.
