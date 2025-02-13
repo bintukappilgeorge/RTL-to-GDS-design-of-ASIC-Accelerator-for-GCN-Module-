@@ -124,10 +124,13 @@ innovus -init apr_script.tcl
 
 - Simulation
 ![Screenshot 2025-02-13 082021](https://github.com/user-attachments/assets/6bbded39-f8a7-4f46-8908-f6cd6885ccce)
+
 - Power Analysis
 ![Screenshot 2025-02-13 082031](https://github.com/user-attachments/assets/7dbbe1b8-1cd1-408f-b5ff-756e746ce2b0)
+
 - Floorplanning
 ![Screenshot 2025-02-13 082037](https://github.com/user-attachments/assets/5081e7fe-6b45-4c23-af89-41f1660b39ac)
+
 - LVS (error)
 ![Screenshot 2025-02-13 082102](https://github.com/user-attachments/assets/2034b403-b4b8-40ba-adda-637305567167)
 
