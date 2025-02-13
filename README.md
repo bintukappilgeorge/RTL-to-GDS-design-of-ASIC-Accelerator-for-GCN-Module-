@@ -46,6 +46,9 @@ The design is **fully pipelined**, ensuring all operations are scheduled efficie
 |------------|-----------|---------------|------------|--------|
 | 1-7        | Decode   | Matrix Mult.  | Vector Add | Compare|
 
+![Screenshot 2025-02-13 081953](https://github.com/user-attachments/assets/38f76e75-cdd4-40dd-922c-3d212ed46a46)
+
+
 **Optimization Approach:**
 - The **entire design operates within a single clock cycle**.
 - **Cycle counters** enable sequential activation of different modules.
@@ -114,6 +117,16 @@ innovus -init apr_script.tcl
 ### Step 4: Run DRC & LVS in Virtuoso
 - Import GDS file into Virtuoso
 - Run DRC & LVS checks.
+
+---
+
+## Output
+![Screenshot 2025-02-13 082021](https://github.com/user-attachments/assets/6bbded39-f8a7-4f46-8908-f6cd6885ccce)
+![Screenshot 2025-02-13 082031](https://github.com/user-attachments/assets/7dbbe1b8-1cd1-408f-b5ff-756e746ce2b0)
+![Screenshot 2025-02-13 082037](https://github.com/user-attachments/assets/5081e7fe-6b45-4c23-af89-41f1660b39ac)
+![Screenshot 2025-02-13 082102](https://github.com/user-attachments/assets/2034b403-b4b8-40ba-adda-637305567167)
+
+---
 
 ## 🎯 Conclusion
 This project successfully implements an ASIC-accelerated Graph Convolutional Network (GCN) optimized for low latency and power efficiency. Key takeaways:
